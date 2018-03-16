@@ -1,0 +1,9 @@
+{
+  "name": "@slynova/eslint-config",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "eslint-restricted-globals": "^0.1.1"
+  }
+}
