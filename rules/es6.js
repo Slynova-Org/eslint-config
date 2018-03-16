@@ -55,7 +55,7 @@ module.exports = {
     'no-new-symbol': 'error',
 
     // See: https://eslint.org/docs/rules/no-restricted-imports
-    'no-restricted-imports': 'off'
+    'no-restricted-imports': 'off',
 
     // See: https://eslint.org/docs/rules/no-this-before-super
     'no-this-before-super': 'error',
