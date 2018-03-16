@@ -363,11 +363,7 @@ module.exports = {
     'space-before-blocks': 'error',
 
     // See: https://eslint.org/docs/rules/space-before-function-paren
-    'space-before-function-paren': ['error', {
-      anonymous: 'always',
-      named: 'never',
-      asyncArrow: 'always'
-    }],
+    'space-before-function-paren': ['error', 'always'],
 
     // See: https://eslint.org/docs/rules/space-in-parens
     'space-in-parens': ['error', 'never'],
