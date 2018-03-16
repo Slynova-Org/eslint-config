@@ -144,10 +144,7 @@ module.exports = {
     'no-octal-escape': 'error',
 
     // See: https://eslint.org/docs/rules/no-param-reassign
-    'no-param-reassign': ['error', {
-      props: true,
-      ignorePropertyModificationsFor: []
-    }],
+    'no-param-reassign': 'off',
 
     // See: https://eslint.org/docs/rules/no-proto
     'no-proto': 'error',
