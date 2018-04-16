@@ -175,7 +175,7 @@ module.exports = {
     'max-statements-per-line': ['error', { max: 1 }],
 
     // See: https://eslint.org/docs/rules/multiline-comment-style
-    'multiline-comment-style': ['error', 'starred-block'],
+    'multiline-comment-style': 'off',
 
     // See: https://eslint.org/docs/rules/multiline-ternary
     'multiline-ternary': 'off',
